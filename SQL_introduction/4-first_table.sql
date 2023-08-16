@@ -8,6 +8,6 @@
 -- You are not allowed to use the SELECT or SHOW statements
 
 CREATE TABLE IF NOT EXISTS first_table (
-    ID INT
-    NAME VARCHAR(255)
+    id INT,
+    name VARCHAR(255)
 );

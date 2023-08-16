@@ -7,7 +7,7 @@
 -- If the table first_table already exists, your script should not fail
 -- You are not allowed to use the SELECT or SHOW statements
 
-CREATE TABLE IF NOT EXISTS FIRST_TABLE(
+CREATE TABLE IF NOT EXISTS first_table (
     ID INT
     NAME VARCHAR(255)
 );

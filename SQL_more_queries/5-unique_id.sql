@@ -1,4 +1,4 @@
---A script that creates the table unique_id on your MySQL server
+-- A script that creates the table unique_id on your MySQL server
 -- unique_id description:
 -- id INT with the default value 1 and must be unique
 -- name VARCHAR(256)
